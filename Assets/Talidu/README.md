@@ -1,4 +1,4 @@
-#Talidu Dependency Diagram
+Talidu Dependency Diagram
 
 ```mermaid
 graph TD;
